@@ -11,9 +11,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: My Email or Phone Number
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a twin!
---> Resume
-Andrew Rettig
-Northeastern University, Khoury College of Computer Science
-Graduation Date: 2028
-Major: Computer Science
+--> 
 
