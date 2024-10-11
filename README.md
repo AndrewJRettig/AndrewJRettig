@@ -13,5 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am a twin!
 --> Resume
 Andrew Rettig
-Northeastern University
+Northeastern University, Khoury College of Computer Science
+Graduation Date: 2028
+Major: Computer Science
 
