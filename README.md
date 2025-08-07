@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Andrew Rettig</h1>
 <h3 align="center">A Software Engineer at Northeastern University</h3>
 
-- 👨‍💻 All of my projects are available at [andrewrettig.com](andrewrettig.com)
+- 👨‍💻 All of my projects are available at [andrewrettig.com](https://www.andrewrettig.com/)
 
-- 📝 You can see my resume at [andrewrettig.com/resume](andrewrettig.com/resume)
+- 📝 You can see my resume at [andrewrettig.com/resume](https://www.andrewrettig.com/resume)
 
-- 📫 You can reach out to me at **andrewjrettig@gmail.com**
+- 📫 You can reach out to me at andrewjrettig@gmail.com
 
 - 📄 Connect with me! [https://www.linkedin.com/in/rettig-andrew/](https://www.linkedin.com/in/rettig-andrew/)
 
